@@ -34,10 +34,11 @@ FNH:1
 FNDA:2,task1
 DA:6,2
 DA:7,2
+DA:13,2
 DA:15,2
 DA:18,1
-LF:4
-LH:4
+LF:5
+LH:5
 BRF:0
 BRH:0
 end_of_record
